@@ -1,0 +1,22 @@
+# Raw data (large files)
+data/raw/*.xlsx
+data/raw/*.csv
+data/raw/*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Tableau cache
+*.tde
+*.hyper
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal notes
+notes.txt
